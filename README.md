@@ -1,5 +1,7 @@
 # NBA-CLI
 
+Easy Installation at https://nba-cli.herokuapp.com/
+  
 Welcome to our GitHub Repository for our NBA CLI! This CLI comes with 4 features that allow you to:
   - Check upcoming games/previous games
   - Check live scores for games that are currently being played
